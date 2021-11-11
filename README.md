@@ -7,7 +7,7 @@ Telegram
 https://t.me/OracleToken_Ifa
 
 Medium
-https://medium.com/oracletoken
+https://oracletoken-ifa.medium.com
 
 Social
 https://twitter.com/OracleToken_Ifa
