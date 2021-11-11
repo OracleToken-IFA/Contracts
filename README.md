@@ -10,7 +10,6 @@ Medium
 https://medium.com/oracletoken
 
 Social
-https://twitter.com/OracleToken
-
+https://twitter.com/OracleToken_Ifa
 Github
 https://github.com/OracleToken-IFA
